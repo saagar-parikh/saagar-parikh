@@ -11,6 +11,8 @@
 <img style="padding: 10px" vspace=10 hspace=10 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saagar-parikh&layout=compact" />
 </a>
 
+Connect with me: <a href="https://linkedin.com/in/https://www.linkedin.com/in/saagar-parikh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saagar-parikh/" height="30" width="40" /></a>
+
 <!--
 **saagar-parikh/saagar-parikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
