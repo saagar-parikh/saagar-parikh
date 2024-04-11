@@ -1,6 +1,6 @@
 Homepage: https://saagar-parikh.github.io/
 
-<!--
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img style="padding: 10px" vspace=10 hspace=10 align="center" src="https://github-readme-stats.vercel.app/api?username=saagar-parikh&count_private=true&show_icons=true&theme=radical" />
@@ -10,9 +10,9 @@ Homepage: https://saagar-parikh.github.io/
 </p>
 <p>
 <a href="https://github.com/anuraghazra/convoychat">
-<img style="padding: 10px" vspace=10 hspace=10 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saagar-parikh&layout=compact" />
+<img style="padding: 10px" vspace=10 hspace=10 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saagar-parikh&layout=compact&theme=radical&exclude_repo=saagar-parikh.github.io" />
 </a>
--->
+
 
 <!-- Connect with me: <a href="https://linkedin.com/in/https://www.linkedin.com/in/saagar-parikh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saagar-parikh/" height="30" width="40" /></a>
  -->
